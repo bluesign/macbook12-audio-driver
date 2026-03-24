@@ -1,0 +1,2 @@
+obj-m += snd-hda-codec-cs420x.o
+snd-hda-codec-cs420x-y := cs420x.o

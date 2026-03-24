@@ -1,0 +1,2 @@
+obj-m += snd-hda-codec-cirrus.o
+snd-hda-codec-cirrus-y := patch_cirrus.o
